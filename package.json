@@ -29,10 +29,10 @@
   "homepage": "https://github.com/altgifted/babel-plugin-transform-scss#readme",
   "peerDependencies": {
     "path": "^0.12.7",
-    "node-sass": "^4.14.1"
+    "node-sass": "^6.0.0"
   },
   "dependencies": {
-    "node-sass": "4.14.1",
+    "node-sass": "6.0.0",
     "path": "0.12.7"
   }
 }
